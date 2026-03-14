@@ -58,20 +58,6 @@ Lightweight terminal UI for managing multiple Claude Code sessions. 43KB bundle,
 
 <div align="center">
 
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayCheng113&theme=onestar&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=JayCheng113&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayCheng113&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JayCheng113&theme=github-dark-blue&hide_border=true&background=0d1117" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
