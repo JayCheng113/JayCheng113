@@ -1,13 +1,12 @@
 <div align="center">
 
-# Jay Cheng
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jay%20Cheng&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20@%20University%20of%20Wisconsin-Madison&descSize=16&descAlignY=52" width="100%"/>
 
-**CS @ University of Wisconsin-Madison**
-
-Agentic RL · Vibe some interesting things · Diffusion Language Model
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Agentic+RL;Diffusion+Language+Model;Vibe+some+interesting+things)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhan-cheng)
 [![Website](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://jaycheng113.github.io)
+![Views](https://komarev.com/ghpvc/?username=JayCheng113&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -59,6 +58,10 @@ Lightweight terminal UI for managing multiple Claude Code sessions. 43KB bundle,
 
 <div align="center">
 
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayCheng113&theme=onestar&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=JayCheng113&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="170"/>
@@ -68,5 +71,7 @@ Lightweight terminal UI for managing multiple Claude Code sessions. 43KB bundle,
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JayCheng113&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
