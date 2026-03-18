@@ -10,25 +10,24 @@
 Interested in Reinforcement Learning and AI Agents — building systems that learn, reason, and act.
 </div>
 
-#### ⚡ Featured Projects
-
+<strong>⚡ Featured Projects</strong>
 <table><tr><td width="50%" valign="top">
-<h4><a href="https://github.com/JayCheng113/InfiEpisteme">InfiEpisteme</a></h4>
-<p>Automated research pipeline generating peer-review-quality papers via Claude Code. 10-stage pipeline with human checkpoints.</p>
+<b><a href="https://github.com/JayCheng113/InfiEpisteme">InfiEpisteme</a></b><br>
+<sub>Automated research pipeline generating peer-review-quality papers via Claude Code. 10-stage pipeline with human checkpoints.</sub><br>
 <img src="https://img.shields.io/github/stars/JayCheng113/InfiEpisteme?style=flat-square&color=yellow" alt="stars"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
 </td><td width="50%" valign="top">
-<h4><a href="https://github.com/JayCheng113/AgentInfra">AgentInfra</a></h4>
-<p>File-based knowledge system giving AI agents persistent, project-specific understanding via structured .ai/ directory. Zero infra.</p>
+<b><a href="https://github.com/JayCheng113/AgentInfra">AgentInfra</a></b><br>
+<sub>File-based knowledge system giving AI agents persistent, project-specific understanding via structured .ai/ directory. Zero infra.</sub><br>
 <img src="https://img.shields.io/github/stars/JayCheng113/AgentInfra?style=flat-square&color=yellow" alt="stars"/>
 <img src="https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white" alt="markdown"/>
 </td></tr><tr><td width="50%" valign="top">
-<h4><a href="https://github.com/JayCheng113/Nano-LLaDA">Nano-LLaDA</a></h4>
-<p>A ~30M param discrete diffusion LM combining AR and diffusion generation. LLaDA 1.0 & 2.0 with iterative remasking sampling.</p>
+<b><a href="https://github.com/JayCheng113/Nano-LLaDA">Nano-LLaDA</a></b><br>
+<sub>A ~30M param discrete diffusion LM combining AR and diffusion generation. LLaDA 1.0 & 2.0 with iterative remasking sampling.</sub><br>
 <img src="https://img.shields.io/github/stars/JayCheng113/Nano-LLaDA?style=flat-square&color=yellow" alt="stars"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
 </td><td width="50%" valign="top">
-<h4><a href="https://github.com/JayCheng113/EZVibe-Light">EZVibe-Light</a></h4>
-<p>Lightweight terminal UI for managing multiple Claude Code sessions. 43KB bundle, zero native deps, keyboard-driven.</p>
+<b><a href="https://github.com/JayCheng113/EZVibe-Light">EZVibe-Light</a></b><br>
+<sub>Lightweight terminal UI for managing multiple Claude Code sessions. 43KB bundle, zero native deps, keyboard-driven.</sub><br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts"/>
 </td></tr></table>
